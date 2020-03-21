@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test Suite">
+	<test name="Test Case1">
+		<classes>
+			<class name="Automation_Testcase_Redbus.Both_Are_IncorrectTC4"></class>
+		</classes>
+	</test>
+	<test name="Test Case 2">
+		<classes>
+			<class name="Automation_Testcase_Redbus.Search_Bus"></class>
+		</classes>
+	</test>
+</suite>
